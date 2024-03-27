@@ -91,7 +91,7 @@ public static class PingTracker_Update
     {
         __instance.text.alignment = TMPro.TextAlignmentOptions.TopRight;
         
-        __instance.text.text = $"MalumMenu by scp222thj" + // Mod info
+        __instance.text.text = $"MalumMenu by scp222thj, edited by le killer" + // Mod info
                                 Utils.getColoredPingText(AmongUsClient.Instance.Ping); // Colored Ping
 
         // Position adjustments
