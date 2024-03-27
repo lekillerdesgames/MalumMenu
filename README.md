@@ -16,7 +16,7 @@ Note: this is an unofficial rework of the MaluMenu mod with everything I wanted 
 # 🎁 Releases
 | Mod Version| Among Us - Version | Link |
 |----------|-------------|-----------------|
-| v0.0.1 | 2024.3.5 | [Download](https://github.com/lekillerdesgames/MalumMenu-Edited/releases/download/v.0.0.1/MalumMenu.dll) |
+| v0.0.1 | 2024.3.5 | [Download](https://github.com/lekillerdesgames/MalumMenu-Edited/releases/download/v.0.0.1/MalumMenu-Edited.dll) |
 
 
 # ⬇️ Installation
@@ -29,7 +29,7 @@ Note: this is an unofficial rework of the MaluMenu mod with everything I wanted 
     - Steam: Right-click Among Us in your Library → Click `Manage` → Click `Browse local files`.
     - Epic Launcher: Right-click Among Us in your Library → Click `Manage` → Click the folder icon in the `Installation` box.
 
-4. Download the latest **MelumMenu-edited dll file** from [here](https://github.com/lekillerdesgames/MalumMenu-Edited/releases/download/v.0.0.1/MalumMenu.dll)
+4. Download the latest **MelumMenu-edited dll file** from [here](https://github.com/lekillerdesgames/MalumMenu-Edited/releases/download/v.0.0.1/MalumMenu-Edited.dll)
 
 5. Browse to your Among Us game folder then click `Bepinex` → `plugins` and replace the MalumMenu.dll with the one you just downloaded.
    
